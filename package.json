@@ -1,6 +1,6 @@
 {
   "name": "exotel-node",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A NodeJs wrapper for Exotel APIs",
   "main": "exotel.js",
   "scripts": {
