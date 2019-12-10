@@ -17,6 +17,7 @@ module.exports = {
       From  : this.exophone,
       To    : toNumber,
       Body  : message,
+      Prority: "high"
     }
 
     makeRequest(url, params, function(error, response) {
